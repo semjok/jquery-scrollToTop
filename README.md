@@ -11,4 +11,4 @@
   
 #### DEMO
 
-<a href="https://codepen.io/semjok/pen/LkaoLv" target="_blank">DEMO</a>
+[DEMO](https://codepen.io/semjok/pen/LkaoLv)
