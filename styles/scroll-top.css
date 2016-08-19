@@ -1,0 +1,31 @@
+body {
+  margin:0;
+  padding:0;
+  width:100%;
+  height: auto;
+}
+
+.content {
+  margin: 50px auto;
+  padding: 15px;
+  width: 80%;
+  text-align: justify;
+}
+
+.content h1 {
+  text-align: center;
+}
+
+.top-btn {
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  width: 45px;
+  height: 45px;
+  outline: none;
+  cursor: pointer;
+  color:#FFF;
+  border: none;
+  background:#DA4453;
+  display: none;
+}
