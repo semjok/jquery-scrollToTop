@@ -11,10 +11,5 @@
   
 #### DEMO
 
-[DEMO](https://codepen.io/semjok/pen/LkaoLv)
-
-#### Licence
-
-© 2016 Semjok. MIT License.
-
+[DEMO](https://codepen.io/semjok/pen/LkaoLv{:target="_blank"})
 
